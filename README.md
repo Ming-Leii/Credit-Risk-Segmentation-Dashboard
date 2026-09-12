@@ -4,7 +4,7 @@ SQL + Power BI analysis identifying which groups of borrowers have the highest d
 
 ## Overview 
 
-* **\*\*Dataset\*\*:** \[Give Me Some Credit](https://www.kaggle.com/c/GiveMeSomeCredit) - 150,000 borrower records with income, age, debt ratio and default outcome
+* **Dataset:** \[Give Me Some Credit](https://www.kaggle.com/c/GiveMeSomeCredit) - 150,000 borrower records with income, age, debt ratio and default outcome
 * **Tools:** SQLite(data cleaning \& segmentation queries), Power BI (Dashboard)
 * **Overall Default Risk:** 6.68%
 
